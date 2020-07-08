@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+}
+
+.district {
+  display: flex;
+  justify-content: center;
+}
+
+.party {
+  display: flex;
+  justify-content: center;
+}
